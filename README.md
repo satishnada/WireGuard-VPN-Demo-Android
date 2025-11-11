@@ -4,7 +4,7 @@ A demo Android application showcasing how to integrate and control a **WireGuard
 
 ![App Screenshot](https://cdn-images-1.medium.com/v2/resize:fit:2560/1*QnK7EoCtXMMNYNSgjXjpYQ.png)
 
-[![Read on Medium](https://medium.com/@satish.nada98)
+Read the full article on [Medium](https://medium.com/@satish.nada98).
 
 ---
 
